@@ -1,0 +1,13 @@
+.my-link {
+  color: rgb(100, 100, 100);
+  text-decoration-color: #00cb87;
+}
+
+.my-link:visited {
+  color: #000;
+}
+
+.my-link:hover {
+  transition-duration: 300ms;
+  color: #00cb87;
+}
